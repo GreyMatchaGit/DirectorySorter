@@ -2,7 +2,6 @@ import os
 from shutil import move
 
 '''''''''''''''''''''''''''''''''''
-   Karl will make github soon :P
   To move straight to main search 
   this (Highlight then Ctrl + F): 
                PTY4B
